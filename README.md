@@ -77,7 +77,7 @@ Democratize cybersecurity tools for small businesses in Latin America.
 ## Connect With Me
 
 LinkedIn:
-[PEGA_AQUI_TU_LINKEDIN] https://www.linkedin.com/in/nicoll-ramos-mendoza-770b06321/
+(https://www.linkedin.com/in/nicoll-ramos-mendoza-770b06321/)
 
 GitHub:
 PEGA_AQUI_TU_GITHUB
